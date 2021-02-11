@@ -92,3 +92,4 @@ void mark(Object* object)
 	}
 }
 
+print 9hfasdj
