@@ -88,6 +88,7 @@ void mark(Object* object)
 	if (object->type == OBJ_PAIR)
 	{
 		mark(object->head);
-		mark(object->tail);gdf
+		mark(object->tail);
 	}
 }
+
