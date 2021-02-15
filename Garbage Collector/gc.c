@@ -91,5 +91,5 @@ void mark(Object* object)
 		mark(object->tail);
 	}
 }
-
+dd
 print 9hfasdj
